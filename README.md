@@ -40,6 +40,9 @@ git clone https://github.com/emerson-roots/Projeto_A3_SDM
 # fazer install das dependências node_modules através do comando (aguarde o download e instalação):
 npm install
 
+# instale o nodemon através do comando;
+npm install nodemon -g
+
 # iniciar a aplicação através do comando:
 npm run server
 
