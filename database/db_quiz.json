@@ -1,0 +1,124 @@
+{
+  "questions": {
+    "1": {
+      "id": 1,
+      "question": "O que é Node?",
+      "description": "definição de node",
+      "answers": {
+        "answer_a": "É um ambiente de tempo de execução JavaScript baseado no mecanismo V8.",
+        "answer_b": "É uma linguagem de programação baseado em Java.",
+        "answer_c": "É um ambiente que nos permite executar JavaScript fora do navegador.",
+        "answer_d": "É um framework javascript.",
+        "answer_e": "Um paradigma orientado a objetos."
+      },
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false"
+      },
+      "explanation": "null",
+      "tip": null,
+      "tags": [],
+      "category": "Node",
+      "difficulty": "Easy",
+      "theme": "Node"
+    },
+    "2": {
+      "id": 2,
+      "question": "O que é npm?",
+      "description": null,
+      "answers": {
+        "answer_a": "Uma interface de linha de comando para acessar registros online de pacotes públicos e privados.",
+        "answer_b": "Arquitetura de software voltada para sistemas web.",
+        "answer_c": "Uma sigla que vem do inglês Nodemon package manager.",
+        "answer_d": "Definição de uma das convenções de nomenclaturas para escrita de código em node.",
+        "answer_e": "Gerenciador de pacotes Node."
+      },
+      "correct_answers": {
+        "answer_a_correct": "true",
+        "answer_b_correct": "false",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "true"
+      },
+      "explanation": null,
+      "tip": null,
+      "tags": [],
+      "category": null,
+      "difficulty": "Easy",
+      "theme": "Node"
+    },
+    "3": {
+      "id": 3,
+      "question": "O que “npm install” faz?",
+      "description": "comando",
+      "answers": {
+        "answer_a": "Instala as dependências do node.",
+        "answer_b": "Cria uma instância do npm dentro do projeto.",
+        "answer_c": "Instala as dependências encontradas no arquivo package.json.",
+        "answer_d": "Instala as ferramentas necessárias para uso do npm.",
+        "answer_e": "Cria uma instância do node dentro do projeto no contexto global."
+      },
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "false",
+        "answer_c_correct": "true",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false"
+      },
+      "explanation": null,
+      "tip": null,
+      "tags": [],
+      "category": "linux",
+      "difficulty": "Easy",
+      "theme": "node"
+    },
+    "4": {
+      "id": 4,
+      "question": "Qual comando é necessário para instalar uma dependência em Node?",
+      "description": "comando",
+      "answers": {
+        "answer_a": "npm install dependency nome_da_dependencia",
+        "answer_b": "npm install nome_da_dependencia",
+        "answer_c": "npm run dependency nome_da_dependencia",
+        "answer_d": "npm install dependency nome_da_dependencia",
+        "answer_e": "node install nome_da_dependencia"
+      },
+      "correct_answers": {
+        "answer_a_correct": "false",
+        "answer_b_correct": "true",
+        "answer_c_correct": "false",
+        "answer_d_correct": "false",
+        "answer_e_correct": "false"
+      },
+      "explanation": null,
+      "tip": null,
+      "tags": [],
+      "category": "linux",
+      "difficulty": "Easy",
+      "theme": "node"
+    }
+  },
+  "IDs": {
+    "1": {
+      "id": 1
+    },
+    "2": {
+      "id": 2
+    },
+    "3": {
+      "id": 3
+    },
+    "4": {
+      "id": 4
+    }
+  },
+  "Frases": {
+    "1": {
+      "texto": "Texto exemplo 1",
+      "autor": "autor exemplo 1"
+    }
+  }
+}
