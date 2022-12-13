@@ -1,6 +1,6 @@
 
 # Sobre o projeto:
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/emerson-roots/A3_SDM/blob/master/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/emerson-roots/Projeto_A3_SDM/blob/master/LICENSE)
  ![NPM](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E) ![NPM](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![NPM](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white) ![NPM](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![NPM](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
  
  
